@@ -11,8 +11,6 @@ Modules Completed
 
 ● Cloud Engineering
 
-Certificate-
-
-![Image](https://github.com/prateekmaj21/Deloitte-Technology-Consulting/blob/master/Deloitte%20Virtual%20Internship.pdf)
+I have uploaded my task reports in pdf format.
 
 
